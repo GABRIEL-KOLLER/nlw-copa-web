@@ -20,10 +20,12 @@ Na aplicação Web, desenvolvemos com um layout utilizado no Figma, e fizemos um
 
 - ReactJS
 - React Native
+- Tailwind CSS
 - NodeJS e NPM
 - TypeScript
 - NextJS
 - JSON
 - Prisma
 - SQLite
+- Insomnia
 - Fastify
